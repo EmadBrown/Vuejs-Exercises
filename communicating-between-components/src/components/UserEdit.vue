@@ -6,7 +6,7 @@
         <button @click="editAge">Edit Age</button>
         <button @click="editAgeEventBus">Edit Age Event Bus</button>
         <br>
-          <button @click="changeAgeBusOpject">Change Age Bus Opject</button>
+          <button @click="changeAgeBusObject">Change Age Bus Opject</button>
     </div>
 </template>
 

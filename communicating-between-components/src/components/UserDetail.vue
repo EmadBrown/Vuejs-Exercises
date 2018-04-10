@@ -33,7 +33,7 @@ export default{
          eventBus.$on('ageWasEditedEventBus', (age)=>{
              this.userAge = age
          });
-          eventBus.$on('ageWasEditedEventBusOpjectFunction', (age)=>{
+          eventBus.$on('ageWasEditedEventBusObjectFunction', (age)=>{
              this.userAge = age
          });
          
